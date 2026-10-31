@@ -1,6 +1,6 @@
 # Chat Porter
 
-**Export ChatGPT, Claude, Gemini, DeepSeek, and Grok conversations as Markdown, PDF, Word, HTML, JSON, or plain text — or copy compact context to continue in another AI.**
+**Export ChatGPT, Claude, Gemini, DeepSeek, and Grok conversations as Markdown, PDF, Word, HTML, JSON, or plain text — or copy compact context to continue in another AI. Desktop Chrome only.**
 
 [Website](https://tanaybpatel.github.io/porter/) · [Privacy](https://tanaybpatel.github.io/porter/privacy.html) · [Support](https://tanaybpatel.github.io/porter/support.html) · [Uninstall feedback](https://forms.gle/iT4ms5Rx5WYvEFa57)
 
@@ -10,7 +10,7 @@
 
 ## What it does
 
-Chat Porter is a Chrome extension for exporting AI chat conversations without sending anything to a server.
+Chat Porter is a desktop Chrome extension for exporting AI chat conversations without sending anything to a server. It runs on Windows, macOS, Linux, and ChromeOS — not on Chrome for Android or iOS.
 
 - **Context mode** — a compact hand-off pack for continuing the conversation in another AI. Older turns are condensed; the latest exchange stays in detail.
 - **Export mode** — review every message, tick exactly what you want, and download Markdown, PDF, Word, HTML, JSON, or plain text.
