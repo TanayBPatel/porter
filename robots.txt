@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tanaybpatel.github.io/porter/sitemap.xml
